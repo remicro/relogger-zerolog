@@ -1,0 +1,4 @@
+github.com/remicro/api v0.1.4 h1:1sjW3hmZITJaKY0BBlEqK4aRbUzqZKN2F9ZNVacNU+I=
+github.com/remicro/api v0.1.4/go.mod h1:H6ttgu9W999Xqkpm2haewZJoTjC+JORHMu6QUgRmzko=
+github.com/rs/zerolog v1.8.0 h1:Oglcb4i6h42uWacEjomB2MI8gfkwCwTMFaDY3+Vgj5k=
+github.com/rs/zerolog v1.8.0/go.mod h1:YbFCdg8HfsridGWAh22vktObvhZbQsZXe4/zB0OKkWU=
